@@ -2,4 +2,4 @@ primeiro commit1
 
 segunda alteração 2
 
-terçeira alteração 3
+terceira alteração 3
